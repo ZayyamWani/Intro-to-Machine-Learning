@@ -1,16 +1,16 @@
-Machine Learning Labs
+# Intro to Machine Learning
 
 This repository contains completed Kaggle Mini Course exercises submitted for Machine Learning Lab coursework.
 
 📌 Topics Covered
 
-How Models Work
+- How Models Work
 
-Basic Data Exploration
+- Basic Data Exploration
 
-Your First Machine Learning Model
+- Your First Machine Learning Model
 
-Model Validation
+- Model Validation
 
 🎯 Objective
 
@@ -19,11 +19,11 @@ To understand how Decision Tree models work, build a basic machine learning mode
 
 📌 Topics Covered
 
-Underfitting and Overfitting
+- Underfitting and Overfitting
 
-Random Forests
+- Random Forests
 
-Machine Learning Competitions
+- Machine Learning Competitions
 
 🎯 Objective
 
