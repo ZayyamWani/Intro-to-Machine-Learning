@@ -1,8 +1,8 @@
-Machine Learning Labs – Kaggle Mini Courses
+Machine Learning Labs
 
-This repository contains completed exercises from Kaggle Mini Courses as part of the Machine Learning lab work.
+This repository contains completed Kaggle Mini Course exercises submitted for Machine Learning Lab coursework.
 
-Completed Topics:
+📌 Topics Covered
 
 How Models Work
 
@@ -12,10 +12,12 @@ Your First Machine Learning Model
 
 Model Validation
 
-These notebooks demonstrate building and validating a Decision Tree model using scikit-learn.
+🎯 Objective
+
+To understand how Decision Tree models work, build a basic machine learning model using scikit-learn, and validate model performance.
 
 
-Completed Topics:
+📌 Topics Covered
 
 Underfitting and Overfitting
 
@@ -23,8 +25,11 @@ Random Forests
 
 Machine Learning Competitions
 
-These notebooks demonstrate improving model performance using Random Forests and understanding model optimization concepts.
+🎯 Objective
 
-Course Source
+To improve model accuracy using Random Forests and understand model performance optimization techniques.
+
+📚 Course Source
+
 Kaggle Learn – Intro to Machine Learning
 https://www.kaggle.com/learn/intro-to-machine-learning
